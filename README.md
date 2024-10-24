@@ -20,6 +20,8 @@ IoT 빅데이터 응용 교육과정
 - flutter
 ### Database 
 - OracleDB
+### AI
+- Jupyter
 ### tool 
 - Git
 - Sourcetree
