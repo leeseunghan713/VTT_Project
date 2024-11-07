@@ -13,6 +13,7 @@ IoT 빅데이터 응용 교육과정
 - Youtube Data API를 통한 데이터 출력
   
 ## 개발 환경
+![My Skills](https://skillicons.dev/icons?i=spring,react,flutter,git,github,notion,vscode,idea)
 ### Backend 
 - Spring boot
 ### Frontend 
@@ -21,7 +22,7 @@ IoT 빅데이터 응용 교육과정
 ### Database 
 - OracleDB
 ### AI
-- Jupyter
+- python
 ### tool 
 - Git
 - Sourcetree
