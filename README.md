@@ -10,19 +10,20 @@ IoT 빅데이터 응용 교육과정
 ## 주요기능
 - KoBART 모델을 통한 유튜브 자막 요약
 - 구글 로그인 (Oauth2)
-- Youtube Data API를 통한 데이터 출력
+- Youtube Data API를 활용해 동영상 정보를 가져오는 기능 구현
   
 ## 개발 환경
-![My Skills](https://skillicons.dev/icons?i=spring,react,flutter,git,github,notion,vscode,idea)
+![My Skills](https://skillicons.dev/icons?i=spring,flask,react,flutter,git,github,notion,vscode,idea)
 ### Backend 
 - Spring boot
 ### Frontend 
 - React
-- flutter
+- Flutter
 ### Database 
 - OracleDB
 ### AI
-- python
+- Python
+- Flask
 ### tool 
 - Git
 - Sourcetree
